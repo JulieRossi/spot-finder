@@ -1,0 +1,3 @@
+{"site": "site1", "spot_name": "spot1", "routes": ["5a", "6b+"]}
+{"site": "site1", "spot_name": "spot2", "routes": ["5a", "6b+"]}
+{"site": "site2", "spot_name": "spot3", "routes": ["5a", "6b+"]}
